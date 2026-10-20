@@ -600,6 +600,7 @@ html, body {
     margin-inline: 0;
     padding: var(--space-lg);
     padding-top: var(--space-xl);
+    box-shadow: 1.75px 1.75px 5px -1px rgba(0, 0, 0, 0.3);
   }
 
   .about__heading {
